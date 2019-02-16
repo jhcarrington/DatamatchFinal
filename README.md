@@ -1,5 +1,5 @@
 # Datamatch
-## ![alt text](https://github.com/jhcarrington/DatamatchFinal/blob/master/DatamatchImage.png)
+## ![alt text](https://github.com/jhcarrington/DatamatchFinal/blob/master/DatamatchLogo.png)
 ## [datamatch.me](https://datamatch.me) [datamatch.me/credits](https://datamatch.me/credits)
 ## [App demo video](https://github.com/jhcarrington/DatamatchFinal/blob/master/DatamatchDemo.mp4)
 ## [Download the app from testFlight](https://testflight.apple.com/join/CtXP01Ye)
